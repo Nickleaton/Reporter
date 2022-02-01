@@ -1,0 +1,19 @@
+# GOOGLE API
+
+GOOGLE_API_KEY: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+# Personal
+title: Mr
+first_name: John
+surname: Smith
+date_of_birth: 2000-01-01
+sex: I'd prefer not to say
+email: johnsmith@gmail.com
+phone: 9999
+my_post_code: WC12AA
+address: 10, Downing Street Westminster
+victim_support: false
+
+# Cache
+
+cachefile: cache.json

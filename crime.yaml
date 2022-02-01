@@ -1,0 +1,12 @@
+name: Graffiti01
+role: I witnessed a crime taking place
+details:
+  Cyclist breaking Section 72 of the Highway Act 1835
+  This is charged under Schedule 3 and Section 51 of the Road Traffic Offenders Act 1988
+  Antisocial behaviour, Crime and Policing Act 2014 offences.
+
+photographs: photos
+
+# Where to put the outputs of the reports
+output: outputs
+cads: cads
