@@ -1,10 +1,9 @@
 import glob
 import os
-from config import Config
-from crime import Crime
 
 from EXIF import EXIF
-
+from config import Config
+from crime import Crime
 from geocode_cache import GeocodeCache
 
 

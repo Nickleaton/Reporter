@@ -26,6 +26,6 @@ class GeocodeCache:
     def __enter__(self):
         return self
 
-    def __exit__(self, type, value, traceback):
+    def __exit__(self, typ, value, traceback):
         with open(self.filename, 'w') as f:
             f.write(json.dumps(self.data))
